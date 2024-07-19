@@ -6,4 +6,4 @@ You can find the following registered users and start a chat by searching for th
 - **Ravi**
 - **Piyush**
 
-> **Note:** These users are for testing purposes only.
+> **Note:** These users are for testing purpose only.
