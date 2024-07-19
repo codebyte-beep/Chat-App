@@ -73,6 +73,7 @@ const Register = () => {
             <img src={Add} alt="" />
             <span>Add an avatar</span>
           </label>
+          <p>Note: You must provide an image to register</p>
           <button disabled={loading}>Sign up</button>
           {loading && "Uploading and compressing the image please wait..."}
           {err && <span>Something went wrong</span>}
